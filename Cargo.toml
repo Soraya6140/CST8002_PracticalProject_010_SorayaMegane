@@ -1,0 +1,14 @@
+[package]
+name = "practical_project1"
+version = "1.0.0"
+edition = "2021"
+authors = ["Soraya Megane Kaji"]
+description = "CST8002 Practical Project Part 1 - Mercury Concentrations in the Canadian Arctic Marine Ecosystem"
+
+# Dataset: Environment and Climate Change Canada. (Aug 28, 2018).
+# Mercury concentrations in the Canadian Arctic marine ecosystem.
+# Licensed under the Open Government Licence - Canada.
+# https://open.canada.ca/en/open-government-licence-canada
+
+[dependencies]
+csv = "1.3"
