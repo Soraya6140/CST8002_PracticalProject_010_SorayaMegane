@@ -1,0 +1,10 @@
+[package]
+name = "pp3"
+version = "3.0.0"
+edition = "2021"
+authors = ["Soraya Megane Kaji"]
+description = "CST8002 Practical Project Part 3 - Mercury Concentrations N-Layered + Sorting Algorithm"
+
+[dependencies]
+csv   = "1.3"
+uuid  = { version = "1", features = ["v4"] }

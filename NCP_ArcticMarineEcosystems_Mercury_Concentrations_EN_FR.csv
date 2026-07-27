@@ -1,0 +1,115 @@
+Metadata Name/Nom de métadonnées,,Mercury concentrations in the Canadian Arctic marine ecosystem,Concentrations de mercure de l’écosystème marin dans l’Arctique canadien,,,,,,
+Metadata File Identifier/Identificateur de fichier de métadonnées,,4b3f1916-a5ae-41db-b365-129c0d214f6c,4b3f1916-a5ae-41db-b365-129c0d214f6c,,,,,,
+File Name/Nom du fichier,,NCP_ArcticMarineEcosystems_Mercury_Concentrations_EN_FR.csv,NCP_ArcticMarineEcosystems_Mercury_Concentrations_EN_FR.csv,,,,,,
+Date File Generated/Date de création du fichier,,9/17/2018,9/17/2018,,,,,,
+File Content/Description du contenu du fichier ,,"This dataset contains the 2005 concentrations of total Mercury (THg), Gaseous Elemental Mercury (GEM), Methylated Mercury (MMHg), Dimethyl Mercury (DMHg) in the water column of the Canadian Arctic.","Cet ensemble de données contient la distribution 2005 du mercure total (THg), du mercure élémentaire gazeux (GEM), du mercure méthylé (MMHg), du mercure diméthylique (DMHg) dans l'ensemble de la colonne d'eau de l'Arctique canadien.",,,,,,
+Organization Name/Nom de l'organisation ,,"Environment and Climate Change Canada, Science and Technology Branch, Aquatic Contaminants Research Division  ","Environnement et changement climatique Canada, Direction générale des sciences et de la technologie, Division de la recherche sur les contaminants aquatiques",,,,,,
+Organization Contact Information/Coordonnées de l'organisation,,"Office of the Director, Aquatic Contaminants Research Division, 105 McGill St., Montreal, Quebec, H2Y 2E7, Canada ","Bureau du directeur, Division de la recherche sur les contaminants aquatiques, 105, rue McGill, Montréal (Québec), H2Y 2E7, Canada",,,,,,
+Email/Courriel,,DRCADonneesOuvertes-ACRDOpenData@ec.gc.ca,DRCADonneesOuvertes-ACRDOpenData@ec.gc.ca,,,,,,
+Program/Programme,,Northern Contaminants Program (NCP),Programme de lutte contre les contaminants dans le Nord (PLCN),,,,,,
+"Principal Investigator (First name, Last name)/Nom du chercheur principal (Prénom, Nom)",,Dr. Jane Kirk ,Dr. Jane Kirk ,,,,,,
+Principal Investigator Affiliation/Affiliation du chercheur principal ,,"Environment and Climate Change Canada, Science and Technology Branch, Aquatic Contaminants Research Division ","Environnement et changement climatique Canada, Direction des sciences et de la technologie, Division de la recherche sur les contaminants aquatiques",,,,,,
+Principal Investigator Contact Information/Coordonnées du chercheur principal,,"Email: jane.kirk@ec.gc.ca; Address: 867 Lakeshore Rd., Burlington, Ontario, L7S 1A1, Canada","Courriel: jane.kirk@ec.gc.ca; Address: 867, chemin Lakeshore, Burlington (Ontario), L7S 1A1, Canada",,,,,,
+"Co-investigator (First Name, Last Name)/Co-chercheur (prénom, nom) ",,Dr. Derek Muir,Dr. Derek Muir,,,,,,
+Co-investigator Affiliation/Affiliation du co-chercheur,,"Environment and Climate Change Canada, Science and Technology Branch, Aquatic Contaminants Research Division ","Environnement et changement climatique Canada, Direction des sciences et de la technologie, Division de la recherche sur les contaminants aquatiques",,,,,,
+Data Steward /Responsible des données,,"Director, Aquatic Contaminants Research Division, 105 McGill St., Montreal, Quebec, H2Y 2E7, Canada","Directeur, Division de la recherche sur les contaminants aquatiques, 105, rue McGill, Montréal (Québec), H2Y 2E7, Canada",,,,,,
+Open Government License-Canada/Licence du Gouvernement ouvert-Canada,,http://open.canada.ca/en/open-government-licence-canada,http://ouvert.canada.ca/fr.licence-du-gouvernement-ouvert-canada,,,,,,
+Attribution,,"Environment and Climate Change Canada, [Year Accessed].  Data File Name: NCP_ArcticMarineEcosystems_Mercury_Concentrations_EN_FR.csv, generated 2018-09-17. ","Environnement et Changement climatique Canada, [année consulté]. Nom du fichier de données : NCP_ArcticMarineEcosystems_Mercury_Concentrations_EN_FR.csv, généré [2018-09-17]. Consulté le [année-mois-jour] de [nom et adresse URL du portail de données].",,,,,,
+Acknowledgment statement/Remerciements,,"The author(s) acknowledge Environment and Climate Change Canada for the provision of:  NCP_ArcticMarineEcosystems_Mercury_Concentrations_EN_FR.csv, accessed from the Government of Canada Open Government Portal","Le (s) auteur (s) reconnaissent Environnement et Changement climatique Canada pour la fourniture du : NCP_ArcticMarineEcosystems_Mercury_Concentrations_EN_FR.csv, accessible à partir du portail du Gouvernement ouvert du gouvernement du Canada",,,,,,
+Recommended citation/Citation recommandée,,"Dr. Jane Kirk , [2018]. Data file(s): [NCP_ArcticMarineEcosystems_Mercury_Concentrations_EN_FR.csv], version number [if available], generated [2018-09-17], Digital Object Identifier [If available]. Accessed [YYYY-MM-DD] from the Government of Canada Open Government Portal at open.canada.ca.","Dr. Jane Kirk , [2018]. Fichier de données(s) : [NCP_ArcticMarineEcosystems_Mercury_Concentrations_EN_FR.csv], le numéro de version [si disponible], générée [2018-09-17], [Digital Object Identifier si disponible]. [Consulté AAAA-MM-JJ] du gouvernement du Canada Portail du Gouvernement ouvert à ouvert.canada.ca",,,,,,
+Quality Assurance Level and Disclaimer/Niveau d’évaluation de la qualité,,"Level 2 - a complete, externally consistent data set of specified quality that consists of research products that have undergone interpretative and diagnostic analyses by the project staff or user community. ",Niveau 2 : ensemble de données complet et cohérent présentant un niveau de qualité donné et qui regroupe des produits de recherche que le personnel rattaché au projet ou la collectivité des utilisateurs a soumis à des analyses interprétatives et diagnostiques.,,,,,,
+Questions,,For any questions regarding data please send email to [DRCADonneesOuvertes-ACRDOpenData@ec.gc.ca] and reference [NCP_ArcticMarineEcosystems_Mercury_Concentrations_EN_FR.csv] - [Dr. Jane Kirk ] and [Link to Catalogue page] ,"Pour toute question, veuillez envoyer un courriel à [DRCADonneesOuvertes-ACRDOpenData@ec.gc.ca] et référence [NCP_ArcticMarineEcosystems_Mercury_Concentrations_EN_FR.csv] - [Dr. Jane Kirk ] et [Lien vers la page du catalogue]",,,,,,
+,,,,,,,,,
+Notes,,A Data Dictionary is provided at the end of the dataset for definitions of column headings and units.,Un dictionnaire de données est fourni à la fin de l’ensemble de données pour les définitions des en-têtes de colonne et les unités. ,,,,,,
+Notes,,ND can be defined as undetectable or below the method detection limit,ND peut être défini comme indétectable ou inférieur à la limite de détection de la méthode.,,,,,,
+Notes,,"Gaseous elemetnal mercury (GEM), Methylated mercury (MethylatedHg), and Dimethyl mercury (DMHg) are measured in picograms per litre (pg/L), and Total mercury (THg) is measured in nanograms per litre (ng/L). ","Elemetnal mercure gazeux (GEM), le mercure méthylé (MethylatedHg), et le diméthyle mercure (DMHg) sont mesurées en picogrammes par litre (pg/L) et de mercure total (Thg) est mesurée en nanogrammes par litre (ng/L). ",,,,,,
+Notes,,Blank cells = value not measured,cellules vides = valeur non mesuré,,,,,,
+Notes,,"Data are a part subject of a publication containing method details, full QA/QC, interpretation and conclusions Kirk, J.L., St. Louis, V.L., Hintelmann, H., Lehnherr, I., Else, B., and Poissant, L. 2008. Methylated mercury species in marine waters o fthe Canadian high and sub Arctic. Environmental Science & Technology, 42: 8367-8373. http://dx.doi.org/10.1021/es801635m","Données sont parti objet d’une publication contenant les détails de la méthode, la pleine QA/QC, d'interprétation et de conclusions Kirk, J.L., St. Louis, V.L., Hintelmann, H., Lehnherr, I., Else, B., and Poissant, L. 2008. Methylated mercury species in marine waters o fthe Canadian high and sub Arctic. Environmental Science & Technology, 42: 8367-8373. http://dx.doi.org/10.1021/es801635m",,,,,,
+,,,,,,,,,
+Tabular Data,,,,,,,,,
+SiteName ,SiteNumber,Year ,Latitude ,Longitude ,Water_Column_Depth ,THg,GEM,Methylated_Hg,DMHg
+North Open Polynya,1,2005,76.3,71.407,0,0.1,19.5,21.4,4.7
+North Open Polynya,1,2005,76.3,71.407,250,0.2,8,81.2,86.2
+North Open Polynya,1,2005,76.3,71.407,660,0.2,3.1,87.1,110
+North Open Polynya,2,2005,76.255,74.594,0,0.4,14.5,30.5,2.8
+North Open Polynya,2,2005,76.255,74.594,200,0.2,49,85.1,67.6
+North Open Polynya,2,2005,76.255,74.594,439,0.2,133,103,76.7
+North Open Polynya,3,2005,76.383,77.382,0,0.2,22.4,40.3,10.9
+North Open Polynya,3,2005,76.383,77.382,200,0.2,27.7,64.1,56.7
+North Open Polynya,3,2005,76.383,77.382,347,0.2,28.3,89.3,60.7
+North Open Polynya,4,2005,77.335,76.021,0,0.3,25.6,30.8,15.2
+North Open Polynya,4,2005,77.335,76.021,180,0.4,43.4,85.9,42.2
+North Open Polynya,4,2005,77.335,76.021,522,1.2,31.7,146,71
+North Open Polynya,5,2005,78.328,74.356,0,0.3,48.9,28.5,10
+North Open Polynya,5,2005,78.328,74.356,140,0.2,47.8,77.6,35.3
+North Open Polynya,5,2005,78.328,74.356,487,0.2,85.9,106,37.8
+Northwest Passage,6,2005,75.24,74.982,0,1.3,25.1,15,4.5
+Northwest Passage,6,2005,75.24,74.982,200,0.6,33.1,81.8,54.4
+Northwest Passage,6,2005,75.24,74.982,470,0.3,24.1,112,76.1
+Northwest Passage,7,2005,74.051,79.921,0,2.1,20,15,4
+Northwest Passage,7,2005,74.051,79.921,200,0.1,12,62.6,88.3
+Northwest Passage,7,2005,74.051,79.921,808,0.3,9.3,99.7,92.8
+Northwest Passage,8,2005,74.267,91.197,0,0.5,39.8,31.6,14.3
+Northwest Passage,8,2005,74.267,91.197,200,0.2,50.3,86.4,50.2
+Northwest Passage,8,2005,74.267,91.197,322,0.3,12.2,90.7,83.5
+Northwest Passage,9,2005,73.654,96.284,0,0.4,20.3,68,52.3
+Northwest Passage,9,2005,73.654,96.284,150,0.3,43.1,178,161
+Northwest Passage,9,2005,73.654,96.284,240,0.2,13.7,158,170
+Northwest Passage,10,2005,69.167,100.7,0,0.5,25.6,15,5.8
+Northwest Passage,10,2005,69.167,100.7,35,0.2,30.1,31.4,24
+Northwest Passage,10,2005,69.167,100.7,54,0.2,23.2,48.4,36.5
+Northwest Passage,11,2005,68.678,103.869,0,0.4,17.3,15,6.7
+Northwest Passage,11,2005,68.678,103.869,50,0.2,11.3,43.9,53.5
+Northwest Passage,11,2005,68.678,103.869,102,0.3,,46.3,67
+Hudson Strait,12,2005,61.153,64.825,0,0.2,22.5,24.4,32
+Hudson Strait,12,2005,61.153,64.825,75,0.2,73.9,55.6,3.9
+Hudson Strait,12,2005,61.153,64.825,435,0.2,27.2,96.8,43.4
+Hudson Strait,13,2005,62.275,71.978,0,,,,
+Hudson Strait,13,2005,62.275,71.978,150,0.1,24.7,26.7,41.5
+Hudson Strait,13,2005,62.275,71.978,330,0.2,25.7,60.8,49.1
+Hudson Strait,14,2005,64.029,79.215,0,0.2,24.2,23,3.1
+Hudson Strait,14,2005,64.029,79.215,200,1.7,11,37.4,22.1
+Hudson Strait,14,2005,64.029,79.215,304,0.3,5.6,30.1,24.4
+Hudson Bay,15,2005,62.138,78.714,0,0.2,33,24.5,1.9
+Hudson Bay,15,2005,62.138,78.714,70,0.2,18.2,34.5,54.8
+Hudson Bay,15,2005,62.138,78.714,141,0.1,5,42.8,48.3
+Hudson Bay,16,2005,60.125,79.166,0,0.2,23.3,15,1.4
+Hudson Bay,16,2005,60.125,79.166,75,0.2,ND,61,93.9
+Hudson Bay,16,2005,60.125,79.166,128,0.2,29.5,107,82
+Hudson Bay,17,2005,58.419,78.332,0,0.3,41.2,15.9,3.4
+Hudson Bay,17,2005,58.419,78.332,30,0.7,39.6,15,4.6
+Hudson Bay,17,2005,58.419,78.332,104,0.5,ND,78.4,91.1
+Hudson Bay,18,2005,55.285,77.899,0,2.9,33.3,30.2,2.1
+Hudson Bay,18,2005,55.285,77.899,45,0.3,31.8,19.3,32.4
+Hudson Bay,18,2005,55.285,77.899,82,0.2,1.9,32.1,43.9
+Hudson Bay,19,2005,54.72,80.752,0,0.4,33.2,15,2.4
+Hudson Bay,19,2005,54.72,80.752,50,0.3,22.3,39.9,40.6
+Hudson Bay,19,2005,54.72,80.752,87,0.3,ND,64,81.4
+Hudson Bay,20,2005,55.429,80.487,0,0.2,29,15,1.4
+Hudson Bay,20,2005,55.429,80.487,50,0.4,31.3,41.3,36.5
+Hudson Bay,20,2005,55.429,80.487,84,0.4,9.7,55.8,58.5
+Hudson Bay,21,2005,58.398,83.292,0,1,25.6,15,2.6
+Hudson Bay,21,2005,58.398,83.292,75,0.2,25.9,44.2,76.5
+Hudson Bay,21,2005,58.398,83.292,168,0.3,12,126,129
+Hudson Bay,22,2005,57.574,91.612,0,0.3,32.6,41.9,0.1
+Hudson Bay,22,2005,57.574,91.612,20,0.2,31.5,15,0.4
+Hudson Bay,22,2005,57.574,91.612,60,1.4,32.4,24.5,1.5
+Hudson Bay,23,2005,59.06,87.482,0,0.2,28,22.2,0.1
+Hudson Bay,23,2005,59.06,87.482,100,0.3,85.9,71.1,38
+Hudson Bay,23,2005,59.06,87.482,188,0.3,81.9,63.5,22.9
+Hudson Bay,24,2005,59.041,94.001,0,0.4,30.5,18.7,0.5
+Hudson Bay,24,2005,59.041,94.001,20,0.3,27,44.8,1.1
+Hudson Bay,24,2005,59.041,94.001,45,0.2,41,27.6,3.2
+,,,,,,,,,
+Data Dictionary/dictionnaire de données,,,,,,,,,
+Attribute/attribut ,,Definition (English/Anglais),Définition (French/Français),,,,,,
+SiteName ,,Site name,nom du site,,,,,,
+SiteNumber,,Site Number,numéro de site,,,,,,
+Year ,,Year (YYYY),Année (AAAA),,,,,,
+Latitude ,,Latitude (decimal degrees),Latitude (degrés décimaux),,,,,,
+Longitude ,,Longitude (decimal degrees),Longitude (degrés décimaux),,,,,,
+Water_Column_Depth,,"Depth the water sample was collected (meters, m)","Profondeur de l'échantillon d'eau a été recueillie (mètres, m)",,,,,,
+THg,,Total mercury measured in nanograms per litre (ng/L),Mercure total mesuré en nanogrammes par litre (ng/L),,,,,,
+GEM,,Gaseous elemental mercury measured in picograms per litre (pg/L),Mercure élémentaire gazeux mesurée en picogrammes par litre (pg/L) ,,,,,,
+Methylated_Hg,,Methylated mercury measured in picograms per litre (pg/L),Mercure méthylé mesurée en picogrammes par litre (pg/L) ,,,,,,
+DMHg,,Dimethyl mercury measured in picograms per litre (pg/L),Diméthyle mercure mesurées en picogrammes par litre (pg/L) ,,,,,,
